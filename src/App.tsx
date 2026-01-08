@@ -9,7 +9,7 @@ import YouTubeSection from "./components/YouTubeSection";
 import Gallery from "./components/Gallery";
 import OurStory from "./components/OurStory";
 import LiveStreamingSection from "./components/LiveStreamingSection";
-import WeddingGift from "./components/WeddingGift";
+// import WeddingGift from "./components/WeddingGift";
 import RSVPForm from "./components/RSVPForm";
 import BestWishes from "./components/BestWishes";
 import Footer from "./components/Footer";

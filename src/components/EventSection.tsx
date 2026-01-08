@@ -49,7 +49,7 @@ interface EventSectionProps {
 
 const EventSection: React.FC<EventSectionProps> = ({
   holyMatrimony,
-  reception,
+  // reception,
 }) => {
   return (
     <section className="event-section">
