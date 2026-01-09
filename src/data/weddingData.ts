@@ -5,14 +5,14 @@ export const weddingData: WeddingData = {
     name: "Raisa",
     fullName: "Raisa Mahani Bin Syekh Abubakar",
     parents:
-      "The Daughter of<br>Mr. Abubakar (Arbin) Bin Syekh Abubakar<br>&<br>Mrs. Dina Sukainah Bin Syekh Abubakar",
+      "The Daughter of<br>Mr. Abubakar (Arbin) bin Jafar Bin Syekh Abubakar<br>&<br>Mrs. Dina Sukainah binti Muhammad Bin Syekh Abubakar",
     photo: "/Raisa1.jpeg",
   },
   bride: {
     name: "Rafi",
     fullName: "Mirza Ahmad Rafi Alwi Bin Syekh Abubakar",
     parents:
-      "The Son of<br>Mr. drg. Tomi Abubakar Alwi bin Syekh Abubakar M.P.H., CGRCP., CFAS<br>&<br>Mrs. Mylantha Kamarullah Alhabsyi",
+      "The Son of<br>Mr. Tomi Abubakar Alwi bin Mohammad Bin Syekh Abubakar<br>&<br>Mrs. Mylantha Kamarullah binti Syarief Muhammad Alhabsyi",
     photo: "/Rafi1.jpeg",
   },
   holyMatrimony: {
@@ -33,7 +33,7 @@ export const weddingData: WeddingData = {
       "Kobangdikal, Jl. Moro Krembangan, Morokrembangan, Kec. Krembangan, Surabaya, Jawa Timur 60178",
     mapsLink: "https://maps.app.goo.gl/Xai4TzMoWs8GECf16",
   },
-  weddingDate: new Date("2026-03-28T09:00:00"),
+  weddingDate: new Date("2026-03-28T08:00:00"),
   story: {
     firstMeeting:
       "It was in 2024, at the most unexpected moment, when our best friend introduced us. As we got to know each other better, everything just felt right, and we decided to commit to each other.",
