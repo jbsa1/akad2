@@ -20,7 +20,7 @@ const CoupleSection: React.FC<CoupleSectionProps> = ({ groom, bride }) => {
             viewport={{ once: true }}
           >
             <h2>THE BRIDE</h2>
-            <img src={groom.photo} alt={groom.name} className="couple-photo" />
+            {/* <img src={groom.photo} alt={groom.name} className="couple-photo" /> */}
             <h3 className="couple-name">{groom.name}</h3>
             <p className="couple-full-name">{groom.fullName}</p>
             <p
@@ -57,7 +57,7 @@ const CoupleSection: React.FC<CoupleSectionProps> = ({ groom, bride }) => {
             viewport={{ once: true }}
           >
             <h2 className="section-title">THE GROOM</h2>
-            <img src={bride.photo} alt={bride.name} className="couple-photo" />
+            {/* <img src={bride.photo} alt={bride.name} className="couple-photo" /> */}
             <h3 className="couple-name">{bride.name}</h3>
             <p className="couple-full-name">{bride.fullName}</p>
             <p

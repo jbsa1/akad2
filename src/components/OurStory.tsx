@@ -23,9 +23,9 @@ const OurStory: React.FC = () => {
           viewport={{ once: true }}
         >
           <div className="story-image-container">
-            <img src="/ourstory.jpeg" alt="Our Story" className="story-image" />
+            <img src="/frame.png" alt="Our Story" className="story-image" />
           </div>
-          <div className="story-content-wrapper">
+          {/* <div className="story-content-wrapper">
             <div className="story-section">
               <h3 className="story-title">How We Met</h3>
               <p className="story-text">
@@ -46,12 +46,12 @@ const OurStory: React.FC = () => {
                 that love doesn't measure miles—only commitment, patience, and
                 the warmth we carried despite the space.
               </p>
-            </div>
+            </div> */}
 
             <div className="story-section">
               <h3 className="story-title">Our New Beginning</h3>
               <p className="story-text">
-                And we got engaged in June 2025, surrounded by our family. Now,
+                We got engaged in June 2025, surrounded by our family. Now,
                 with grateful hearts, we are ready to begin the next chapter—no
                 more distance, just one home, one journey, one love. We're very
                 excited to count down our Big Day in March. It's getting real. A

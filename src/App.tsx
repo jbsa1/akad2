@@ -126,7 +126,7 @@ const App: React.FC = () => {
                 <section className="love-section">
                   <div className="love-content">
                     <img
-                      src="/ASSET-FRAME-JK2.webp"
+                      src="/frame.png"
                       alt="Frame"
                       className="love-frame"
                     />
@@ -183,7 +183,7 @@ const App: React.FC = () => {
                 </div>
 
                 {/* YouTube Video Section */}
-                <YouTubeSection />
+                {/* <YouTubeSection /> */}
 
                 {/* Photo Gallery */}
                 <Gallery photos={weddingData.photos} />

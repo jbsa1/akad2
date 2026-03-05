@@ -39,26 +39,22 @@ const InvitationSection: React.FC = () => {
           <div className="also-inviting-list">
             <li>
               <p>
-                The Extended Family of the Late Habib Jafar bin Husen bin Sheikh
-                Abubakar
+                Kel. Besar Almh. Hbb Aminah Mustofa Al Maghrobi
               </p>
             </li>
             <li>
               <p>
-                The Extended Family of the Late Habib Muhammad bin Mohsin bin
-                Sheikh Abubakar
+                Kel. Besar Almh. Hbb Moonirah Abdullah Shahab
               </p>
             </li>
             <li>
               <p>
-                The Extended Family of the Late Habib J.E. Mohammad Alwi bin
-                Abubakar bin Sheikh Abubakar
+                Kel. Besar Ibu Hj Marjati Diponegoro
               </p>
             </li>
             <li>
               <p>
-                The Extended Family of the Late Habib Ahmad Kamarullah bin
-                Syarief Muhammad Alhabsyi
+                Kel. Besar Ibu Hj Nyi Mas Neneng Soraya
               </p>
             </li>
           </div>
