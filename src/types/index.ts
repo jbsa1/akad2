@@ -24,8 +24,8 @@ export interface WeddingData {
   reception: EventData;
   weddingDate: Date;
   story: {
-    firstMeeting: string;
-    twoBecomeOne: string;
+    // firstMeeting: string;
+    // twoBecomeOne: string;
     newJourney: string;
   };
   photos: string[];

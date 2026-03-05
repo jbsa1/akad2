@@ -5,7 +5,7 @@ import CoupleSection from "./components/CoupleSection";
 import Countdown from "./components/Countdown";
 import EventSection from "./components/EventSection";
 import InvitationSection from "./components/InvitationSection";
-import YouTubeSection from "./components/YouTubeSection";
+// import YouTubeSection from "./components/YouTubeSection";
 import Gallery from "./components/Gallery";
 import OurStory from "./components/OurStory";
 import LiveStreamingSection from "./components/LiveStreamingSection";
